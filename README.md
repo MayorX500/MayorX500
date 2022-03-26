@@ -13,7 +13,7 @@
 - To contact me, you can add me on Discord: Mayor_X500#1337
 
 [![LinkedIn badge](https://img.shields.io/badge/-MiguelGomes-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/miguel-gomes-4b11411b8/)
-[![LinkedIn badge](https://img.shields.io/badge/-@Mayor_X500-blue?style=flat&logo=twitter)](https://twitter.com/Mayor_X500)
+[![Twitter badge](https://img.shields.io/badge/-@Mayor_X500-blue?style=flat&logo=twitter)](https://twitter.com/Mayor_X500)
 [![Instagram badge](https://img.shields.io/badge/-@mayor_x500-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/mayor_x500/)
 [![Email badge](https://img.shields.io/badge/-MiguelG-red?style=flat&logo=Gmail&logoColor=white)](mailto:g0mes.miguel.0120@gmail.com)
 
