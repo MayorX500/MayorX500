@@ -54,7 +54,7 @@ impl Me {
 }    
 
 fn main() {    
-    let Me = Me::new();
+    let mut Me = Me::new();
     loop{    
         Me.about_me();    
         println!("Hello, this is me {:?}",me);    
