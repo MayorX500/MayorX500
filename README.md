@@ -39,7 +39,7 @@ pub struct Me {
 impl Me {    
     pub fn new(about:String) ->Me{    
         Me{
-	        name:String::new("Miguel"),    
+	    name:String::new("Miguel"),    
             age:21,
             work:String::new("Student"),
             location:String::new("University of Minho"),
