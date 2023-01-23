@@ -8,58 +8,7 @@
 </p>
 
 ```rust
-use std::io;
-
-#[derive(Knows)]    
-pub enum Knowledge {    
-    Empty,    
-    Rust,    
-    C,    
-    Python,    
-    Prolog,
-    Java,
-    Bash,
-    PostgreSQL,
-    MySQL,
-    Haskel,
-    Linux System Admin,    
-}
-
-#[derive(About)]    
-pub struct Me {    
-    name:String,    
-    age:i32,
-    knows:Knowledge,
-    work:String,
-    location:String,
-    doing:String,
-    about:String,
-    projects:Vec<Strings>,   
-}    
-impl Me {    
-    pub fn new(about:String) ->Me{    
-        Me{
-	    name:String::new("Miguel"),    
-            age:21,
-            work:String::new("Student"),
-            location:String::new("University of Minho"),
-            doing:String::new("Software Engineering"),
-            about,
-        }    
-    }
-    pub fn about_me(&mut self){    
-       let input_text = String::new("Have a huge GAME_DEV interest, and like to learn new things that are challenging");
-       self.about = input_text;
-    }    
-}    
-
-fn main() {    
-    let mut Me = Me::new();
-    loop{    
-        Me.about_me();    
-        println!("Hello, this is me {:?}",me);    
-    }    
-}
+"WIP"
 ```
 [![discord](https://img.shields.io/badge/MayorX500-1337-blue?logo=discord&logoColor=white)](https://discordapp.com/users/525678916019421197)
 [![LinkedIn badge](https://img.shields.io/badge/-MiguelGomes-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/miguel-gomes-4b11411b8/)
